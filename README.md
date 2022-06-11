@@ -2,7 +2,6 @@
 <h3 align="center">An undergraduate Electronics and Communication Engineering student at Alexandria University</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mennatallah9" alt="mennatallah9" /></a> </p>
 
 - 🔭 I’m currently working on [ML-CaPsule](https://github.com/Mennatallah9/ML-CaPsule)
 
