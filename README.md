@@ -3,7 +3,6 @@
 
 
 
-- 🔭 I’m currently working on [ML-CaPsule](https://github.com/Mennatallah9/ML-CaPsule)
 
 - 🌱 I’m currently learning **Data Science & Machine Learning**
 
