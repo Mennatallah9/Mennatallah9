@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **Data Science & Machine Learning**
+- 🌱 I’m currently learning **Backend development**
 
 - 📫 How to reach me **mennatallah.a.haggag@gmail.com**
 
