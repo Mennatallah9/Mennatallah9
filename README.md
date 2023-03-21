@@ -1,3 +1,4 @@
+![Profile views counter](https://komarev.com/ghpvc/?username=mennatallah9&&style=flat-square)  
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey!;I'm+Mennatallah;&center=true&size=30">
@@ -54,16 +55,3 @@
 
 </td></tr></table>  
 
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=mennatallah9&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
