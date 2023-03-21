@@ -17,7 +17,7 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
 <a href = "mailto:mennatallah.a.haggag@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
- <p> <br>I am currently a Second-Year Electronics and Communications Engineering student at Alexandria University and a Software Volunteer at IEEE SSCS Alex SC</p>
+ <p> <br>I am currently a Second-Year Electronics and Communications Engineering student at Alexandria University and a Software Volunteer at IEEE SSCS Alex SC.</p>
 </div>  
   
   
