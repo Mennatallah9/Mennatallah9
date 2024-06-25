@@ -13,8 +13,8 @@
 <a href="https://linkedin.com/in/mennatallahhaggag" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/@mennaa619" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+<a href="https://hashnode.com/@mennahaggag" target="_blank">
+<img src="https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white" alt="hashnode" style="margin-bottom: 5px;" />
 </a>
 <a href = "mailto:mennatallah.a.haggag@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
  <p> <br>I am currently a Third-Year Electronics and Communications Engineering student at Alexandria University and a DevOps Engineer Intern at DEPI.</p>
