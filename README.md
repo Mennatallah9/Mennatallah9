@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white" alt="hashnode" style="margin-bottom: 5px;" />
 </a>
 <a href = "mailto:mennatallah.a.haggag@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
- <p> <br>I am currently a Third-Year Electronics and Communications Engineering student at Alexandria University and a DevOps Engineer Intern at DEPI.</p>
+ <p> <br>I am currently a Senior Electronics and Communications Engineering student at Alexandria University and a DevOps Engineer Intern at DEPI.</p>
 </div>  
   
   
