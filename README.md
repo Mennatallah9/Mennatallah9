@@ -39,7 +39,6 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" /></a>  
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" /></a>  
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" width="40" height="40" /></a>  
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" width="40" height="40" /></a>  
 <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" width="40" height="40" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
