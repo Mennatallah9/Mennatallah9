@@ -17,9 +17,11 @@
 <img src="https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white" alt="hashnode" style="margin-bottom: 5px;" />
 </a>
 <a href = "mailto:mennatallah.a.haggag@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
- <p> <br>I am currently a Senior Electronics and Communications Engineering student at Alexandria University and a DevOps Engineer Intern at DEPI.
- <br>In my free time, I enjoy writing technical articles. Check out my latest posts on Dev.to and Hashnode!
- </p>
+<p>
+  <br>I am currently a Senior Electronics and Communications Engineering student at Alexandria University, a DevOps Engineer Intern at DEPI, and a Summer Academy Intern at Dell Technologies.
+  <br>In my free time, I enjoy writing technical articles. Check out my latest posts on Dev.to and Hashnode!
+</p>
+
 </div>  
   
   
