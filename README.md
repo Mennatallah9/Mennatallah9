@@ -18,7 +18,7 @@
 </a>
 <a href = "mailto:mennatallah.a.haggag@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <p>
-  <br>I am currently a Senior Electronics and Communications Engineering student at Alexandria University, a DevOps Engineer Intern at DEPI, and a Summer Academy Intern at Dell Technologies.
+  <br>I’m a recent Electronics and Communications Engineering graduate from Alexandria University with a strong interest in DevOps and backend development. I’ve interned at Silicon Mind, DEPI, and Dell Technologies, and I’m currently part of Deloitte’s DevOps/Cloud Mentorship Program.
   <br>In my free time, I enjoy writing technical articles. Check out my latest posts on Dev.to and Hashnode!
 </p>
 
